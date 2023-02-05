@@ -1,0 +1,54 @@
+sample_name	geo_accession	genotype	tissue	group
+ALS001_cereb	GSM1642278	c9ALS	Cerebellum	ALS
+ALS001_fcx	GSM1642279	c9ALS	Frontal Cortex	ALS
+ALS002_cereb	GSM1642280	c9ALS	Cerebellum	ALS
+ALS002_fcx	GSM1642281	c9ALS	Frontal Cortex	ALS
+ALS006_cereb	GSM1642286	c9ALS	Cerebellum	ALS
+ALS006_fcx	GSM1642287	c9ALS	Frontal Cortex	ALS
+ALS007_cereb	GSM1642292	c9ALS	Cerebellum	ALS
+ALS007_fcx	GSM1642293	c9ALS	Frontal Cortex	ALS
+ALS011_cereb	GSM1642294	sALS	Cerebellum	ALS
+ALS011_fcx	GSM1642295	sALS	Frontal Cortex	ALS
+ALS012_cereb	GSM1642296	sALS	Cerebellum	ALS
+ALS012_fcx	GSM1642297	sALS	Frontal Cortex	ALS
+ALS013_cereb	GSM1642298	sALS	Cerebellum	ALS
+ALS013_fcx	GSM1642299	sALS	Frontal Cortex	ALS
+ALS014_cereb	GSM1642300	sALS	Cerebellum	ALS
+ALS014_fcx	GSM1642301	sALS	Frontal Cortex	ALS
+ALS024_cereb	GSM1642314	Healthy	Cerebellum	Healthy
+ALS024_fcx	GSM1642315	Healthy	Frontal Cortex	Healthy
+ALS034_cereb	GSM1642282	c9ALS	Cerebellum	ALS
+ALS034_fcx	GSM1642283	c9ALS	Frontal Cortex	ALS
+ALS057_cereb	GSM1642284	c9ALS	Cerebellum	ALS
+ALS057_fcx	GSM1642285	c9ALS	Frontal Cortex	ALS
+ALS062_cereb	GSM1642288	c9ALS	Cerebellum	ALS
+ALS062_fcx	GSM1642289	c9ALS	Frontal Cortex	ALS
+ALS063_cereb	GSM1642290	c9ALS	Cerebellum	ALS
+ALS063_fcx	GSM1642291	c9ALS	Frontal Cortex	ALS
+ALS070_cereb	GSM1642302	sALS	Cerebellum	ALS
+ALS070_fcx	GSM1642303	sALS	Frontal Cortex	ALS
+ALS071_cereb	GSM1642304	sALS	Cerebellum	ALS
+ALS071_fcx	GSM1642305	sALS	Frontal Cortex	ALS
+ALS072_cereb	GSM1642306	sALS	Cerebellum	ALS
+ALS072_fcx	GSM1642307	sALS	Frontal Cortex	ALS
+ALS073_cereb	GSM1642308	sALS	Cerebellum	ALS
+ALS073_fcx	GSM1642309	sALS	Frontal Cortex	ALS
+ALS074_cereb	GSM1642310	sALS	Cerebellum	ALS
+ALS074_fcx	GSM1642311	sALS	Frontal Cortex	ALS
+ALS075_cereb	GSM1642312	sALS	Cerebellum	ALS
+ALS075_fcx	GSM1642313	sALS	Frontal Cortex	ALS
+ALS086_cereb	GSM1642316	Healthy	Cerebellum	Healthy
+ALS086_fcx	GSM1642317	Healthy	Frontal Cortex	Healthy
+ALS090_cereb	GSM1642318	Healthy	Cerebellum	Healthy
+ALS090_fcx	GSM1642319	Healthy	Frontal Cortex	Healthy
+ALS091_cereb	GSM1642320	Healthy	Cerebellum	Healthy
+ALS091_fcx	GSM1642321	Healthy	Frontal Cortex	Healthy
+ALS093_cereb	GSM1642322	Healthy	Cerebellum	Healthy
+ALS093_fcx	GSM1642323	Healthy	Frontal Cortex	Healthy
+ALS094_cereb	GSM1642324	Healthy	Cerebellum	Healthy
+ALS094_fcx	GSM1642325	Healthy	Frontal Cortex	Healthy
+ALS095_cereb	GSM1642326	Healthy	Cerebellum	Healthy
+ALS095_fcx	GSM1642327	Healthy	Frontal Cortex	Healthy
+ALS097_cereb	GSM1642328	Healthy	Cerebellum	Healthy
+ALS097_fcx	GSM1642329	Healthy	Frontal Cortex	Healthy
+ALS100_fcx	GSM1642330	Healthy	Frontal Cortex	Healthy
